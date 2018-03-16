@@ -96,6 +96,57 @@ Javascript (ES6) / NodeJS
   <td>ряд 3 Колонка 3</td>
 </tr>
 
+<br>
+<table border="1" width="100%">
+<tr>
+  <td></td>
+  <th>Яблоки</th>
+  <th>Груши</th>
+  <th>Апельсины</th>
+</tr>
+
+<tr>
+  <td>Понедельник</td>
+  <td>1кг</td>
+  <td>2кг</td>
+  <td>5кг</td>
+</tr>
+
+<tr>
+  <td>Вторник</td>
+  <td>7кг</td>
+  <td>8кг</td>
+  <td>12кг</td>
+</tr>
+
+<tr>
+  <td>Среда</td>
+  <td>7кг</td>
+  <td>15кг</td>
+  <td>9кг</td>
+</tr>
+
+ <tr>
+<td>Итого</td>
+<td>15</td>
+<td>25</td>
+<td>26</td>
+
+ </tr>
+
+
+
+
+
+
+
+
+
+
+</table>
+
+
+
 
 
 
